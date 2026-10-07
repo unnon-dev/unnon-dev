@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hey, I'm Unnon 👋
 
-<!--
-**unnon-dev/unnon-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like building things, breaking things, and figuring out how they work.
 
-Here are some ideas to get you started:
+### ⚡ Areas I'm exploring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔐 Cybersecurity
+* 🐧 Linux
+* 🌐 Networking
+* 📡 ESP32 & embedded systems
+* 💻 Programming
+
+### 🛠️ Currently exploring
+
+```text
+Cybersecurity     
+Linux             
+Networking        
+Embedded / ESP32  
+Programming       
+```
+
+### 🔧 Tools & Technologies
+
+`Linux` `Python` `C/C++` `ESP32` `Git` `Bash`
+
+### 🚀 Projects
+
+Projects, experiments, and tools I'm building will appear here.
+
+---
+
+> **Build it. Break it. Understand it.**
